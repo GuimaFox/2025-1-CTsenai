@@ -1,1 +1,2 @@
-teste do primeiro comit no repositório
+teste do primeiro comit no repositório.
+Conteudo adicionado diretamente no github. (Não faça isso)
