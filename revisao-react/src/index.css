@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*o tamanho do elemento é todo o elemento*/
+}
+
+#root, body, html{
+    min-height: 100vh;
+    /* o vh é o visual higt*/
+}
